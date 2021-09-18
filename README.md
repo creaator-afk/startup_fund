@@ -1,5 +1,5 @@
 # Problem statement
-* The donations done on a crowd funding project the funds of donator are most of the time misused by the receiver. Hence, making it much riskier option.
+* The donations done on a crowd funding project. The funds of donator are most of the time misused by the receiver. Hence, making it much riskier option.
 # Solution
 * Stratup_fund uses a system of Etherum blockchain, to ensure that transactions are sequre and reduce fraudlent activity
 * It uses Etherum on Rinkeby. With the help of metamask
